@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d37
 abstract: "Exact 42-point Euclidean labelled squared-distance metric preserving all 820 predecessor labels and independently checked ideal graph modes."
+doi: 10.5281/zenodo.24413346
+url: https://doi.org/10.5281/zenodo.24413346
